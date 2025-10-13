@@ -4,6 +4,10 @@ A sophisticated React Native application that acts as an "AI Product Advisor," a
 <img width="586" height="904" alt="Screenshot 2025-10-13 151247" src="https://github.com/user-attachments/assets/608319e8-6bd7-4c19-b3ae-02ba1cd8b0ad" />
 <img width="570" height="896" alt="Screenshot 2025-10-13 151259" src="https://github.com/user-attachments/assets/012f42a8-f618-4cf6-a58a-6a6ae02e9dd0" />
 <img width="586" height="900" alt="Screenshot 2025-10-13 151322" src="https://github.com/user-attachments/assets/0056c946-9282-4165-b31d-68235c63b8b1" />
+<img width="571" height="902" alt="Screenshot 2025-10-13 151356" src="https://github.com/user-attachments/assets/a4960372-e37d-46e2-bfce-df42c5747852" />
+<img width="568" height="911" alt="Screenshot 2025-10-13 151415" src="https://github.com/user-attachments/assets/d16f93c1-da03-465e-a02a-de608f1c7992" />
+
+
 
 
 ## 📋 Table of Contents
