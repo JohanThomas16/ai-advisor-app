@@ -2,7 +2,6 @@
 
 A comprehensive React Native app that helps users discover, compare, and get personalized recommendations for AI products and tools. Built with Expo, featuring a conversational AI advisor, product catalog, comparison tools, and user profiles.
 
-![AI Product Advisor](https://via.placeholder.com/800x400/6366F1/FFFFFF?text=AI+Product+Advisor)
 
 ## ✨ Features
 
@@ -300,5 +299,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 6. **Performance: lazy loading, response caching, image optimization, error boundaries/crash reporting**
 
 ---
+### Screenshots
 
-**Built with ❤️ by the AI Product Advisor Team**
+<img width="498" height="858" alt="Screenshot 2025-10-13 151247" src="https://github.com/user-attachments/assets/dd40a09e-c3b6-45ee-b92b-5698fcb78bf1" />
+<img width="494" height="862" alt="Screenshot 2025-10-13 151322" src="https://github.com/user-attachments/assets/ad5ac0a9-73d9-423d-8a06-775420f23c99" />
+<img width="496" height="859" alt="Screenshot 2025-10-13 151356" src="https://github.com/user-attachments/assets/c29c9c98-4908-4436-af68-49fe483b7d68" />
+<img width="492" height="863" alt="Screenshot 2025-10-13 151415" src="https://github.com/user-attachments/assets/802a1911-d924-47db-b50a-1438858f9263" />
+
+
+**Built By Johan Thomas Isaac **
